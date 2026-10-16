@@ -120,7 +120,7 @@ int main(int argc , char *argv[])
 			}
 			else
 			{
-				color_index=0;
+				color_index=0; // set color index to 0
 			}
 
 			pixel_array[index++]=color_index;
